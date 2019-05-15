@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app xmlns="http://www.actionsoft.com.cn/app">  
+  <name>手机号验证码登录</name>  
+  <version>1.0</version>  
+  <buildNo>5</buildNo>  
+  <developer id="00000000000000000000000000000000" tablePrefix="EU" url="http://www.awspaas.com">AWSPaaS-EndUser</developer>  
+  <categoryVisible>true</categoryVisible>  
+  <description><![CDATA[阿里云的账号发送短信验证]]></description>  
+  <details><![CDATA[1.应用下面有个"需要替换得文件"文件夹
+
+2.index.jsp 替换  .\webserver\webapps\portal 下的同名文件
+  aws-portal.xml 替换  .\bin\conf 下的同名文件
+  client.login.js 替换  .\webserver\webapps\portal\apps\_bpm.portal\js 下的同名文件
+
+3.重启]]></details>  
+  <installListener/>  
+  <pluginListener>plugin.Plugins</pluginListener>  
+  <startListener/>  
+  <stopListener/>  
+  <upgradeListener/>  
+  <uninstallListener/>  
+  <reloadable>true</reloadable>  
+  <requires/>  
+  <properties> 
+    <property action="disabled" group="阿里云短信服务" name="aliyun.accessKeyId" title="keyId" type="input" isSystem="false" desc="" ref="">LTAI6lSLf02J0MFA</property>  
+    <property action="disabled" group="阿里云短信服务" name="aliyun.accessSecret" title="Secret" type="input" isSystem="false" desc="" ref="">SKFqYa7ylMEjkBVcc5FnXCSpnAw8un</property>  
+    <property action="disabled" group="阿里云短信服务" name="aliyun.regionid" title="域名regionid" type="input" isSystem="false" desc="" ref="">cn-hangzhou</property>  
+    <property action="disabled" group="阿里云短信服务" name="aliyun.templateCode" title="签名模板" type="input" isSystem="false" desc="" ref="">SMS_46840161</property>  
+    <property action="disabled" group="阿里云短信服务" name="signName" title="标签名称" type="input" isSystem="false" desc="" ref="">得才教育实训</property> 
+  </properties>  
+  <allowStartup>true</allowStartup>  
+  <allowUpgradeByStore>true</allowUpgradeByStore>  
+  <depend versions="6.2" env="">_bpm.portal</depend>  
+  <modelAdministrator/>  
+  <installDate>2019-05-15 09:11:47</installDate>  
+  <productId/>  
+  <releaseDate>2019-05-15</releaseDate> 
+</app>

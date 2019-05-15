@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dxyz">
+    <output-path>$PROJECT_DIR$/out/artifacts/dxyz</output-path>
+    <root id="archive" name="dxyz.jar">
+      <element id="module-output" name="com.awspaas.user.apps.dxyz" />
+    </root>
+  </artifact>
+</component>

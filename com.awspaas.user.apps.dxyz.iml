@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-beanutils-1.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-betwixt-0.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-cli-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-codec-1.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-collections-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-collections4-4.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-compress-1.16.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-digester.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-io-2.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-jxpath-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-lang-2.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-lang3-3.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-pool2-2.4.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/commons-validator.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/apache_commons/org.apache.commons.httpclient_3.1.0.v201012070820.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/apache/httpclient" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/fluent-hc-4.5.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/httpclient-4.5.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/httpclient-cache-4.5.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/httpclient-win-4.5.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/httpcore-4.4.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/httpclient/httpmime-4.5.6.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/apache/jdbc-pool" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/jdbc-pool/tomcat-jdbc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/jdbc-pool/tomcat-juli.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/jdbc-pool/tomcat-util.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/apache/poi" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/poi/poi-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/poi/poi-ooxml-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/poi/poi-ooxml-schemas-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/poi/poi-scratchpad-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/ant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/catalina-tribes.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/groovy-all-2.X.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/xalan-2.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/apache/xbean_xpath.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/app" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/app/fontbox-2.0.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/app/pdfbox-2.0.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/app/searchbox.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/hbase" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/commons-configuration-1.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hadoop-auth-2.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hadoop-common-2.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hadoop-hdfs-2.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hbase-client-1.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hbase-common-1.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/hbase-protocol-1.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/htrace-core-3.1.0-incubating.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/metrics-core-2.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/hbase/protobuf-java-2.5.0.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/kafka" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/kafka/kafka-clients-0.10.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/kafka/kafka-streams-0.10.2.0.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/mongodb" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/mongodb/mongo-java-driver-3.4.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/mongodb/mongo-java-driver-3.4.2.jar!/com" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/mongodb/mongo-java-driver-3.4.2.jar!/org" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/redis" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/redis/jedis-2.9.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/redis/redisson-3.3.2.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/zookeeper" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/zookeeper/curator-client-2.12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/zookeeper/curator-framework-2.12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/zookeeper/curator-recipes-2.12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/zookeeper/zookeeper-3.4.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/apache-mime4j-0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/apache-mime4j-core-0.8.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/apache-mime4j-dom-0.8.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/apache-mime4j-storage-0.7.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/commons-net-3.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/commons-vfs-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/geronimo-jms_1.1_spec-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/j-interop.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/j-interopdeps.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/jcifs-1.2.19.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/emm" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/emm/hms" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/hms/client-adapter-sdk-java-oauth2-json-0.3.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/hms/logback-classic-1.0.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/hms/logback-core-1.0.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/apk-parse.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/com.notnoop.apns.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/ipa-parse.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/jpush-client-3.2.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/me.chanjar.weixin.common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/emm/me.chanjar.weixin.cp.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/json" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/fastjson-1.2.51.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/gson-2.8.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/jackson-annotations-2.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/jackson-core-2.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/jackson-databind-2.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/jackson-module-jaxb-annotations-2.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/json/json-lib-2.4-jdk15.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/log" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/aws.log4j2.plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/jcl-over-slf4j-1.7.24.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/jul-to-slf4j-1.7.24.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/log4j-api-2.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/log4j-core-2.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/log4j-over-slf4j-1.7.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/log4j-slf4j-impl-2.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/slf4j-api-1.7.24.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/sigar" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/ws" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/ws/cxf-2.7.12" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/ws/serializer-2.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/ws/soap-xmlbeans-1.2.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/xbus" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/aws.xbus.engine_2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/commons-discovery-0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/engine.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/json.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/jxl_2.6.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/rmi.server.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/saxpath.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/textDriver.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/trang.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xbus/xqjapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/appframework-1.0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-api-benchmark.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-api-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-bpmn-engine.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-bpmn-modeler.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-coe-schema.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-coe.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-app.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-bootstrap-upgrade.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-cc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-emm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-maintain.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-infrastructure-org.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-license.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-portal-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-schema-biz.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-schema-bpmn.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-schema-bpmnext.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-schema.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/barcode4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/bcmail-jdk16-1.40.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/bcpkix-jdk15on-152.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/bcprov-jdk15on-152.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/BerkeleyDB-je-5.0.34.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/bsh-2.0b4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cajo.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cglib-nodep-3.2.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/chardet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/csv.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/dom4j-full.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/druid-1.1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/esapi-2.1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/ezmorph-1.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/findbugs.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/freemarker.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/guava-17.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/icepdf-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/itextpdf-5.5.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jaxen-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jboss-marshalling.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jboss-serialization.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jcommon-0.9.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jdom-2.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jdom.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jmx-annotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jodd-3.6.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/JPinyin-1.1.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/junit-4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/jzlib-modified.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/kxml2-2.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/metadata-extractor-2.10.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/n3xml.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/netty-all-4.0.23.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/ooxml-schemas-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/opencsv-1.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/picocontainer-1.2-RC-1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/pinyin4j-2.5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/quartz-2.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/rhino-1.7.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/rome-1.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/rome-utils-1.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/servlet-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/simple-xml-2.6.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xdesign.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xercesImpl-2.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xmlpull_1_1_3_4c.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xmlwise-1_2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xmpcore-5.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/xpp3_min-1.1.4c.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/zxing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-sdk-local.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/../../../bin/lib/sigar" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../bin/lib/cc/zookeeper" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/cc/zookeeper/zookeeper-3.4.10.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../bin/lib/log" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/log/aws.log4j2.plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/icepdf-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-sdk-local.jar!/main/java" />
+          <root url="jar://$MODULE_DIR$/../../../bin/lib/aws-sdk-local.jar!/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/apache/httpclient" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/apache/jdbc-pool" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/apache/poi" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/app" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/hbase" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/kafka" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/mongodb" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/redis" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/zookeeper" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/emm" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/emm/hms" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/json" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/log" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/sigar" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/ws" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/ws/cxf-2.7.12" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/xbus" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/cc/zookeeper" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/lib/log" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/db2jcc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/db2jcc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/db2jcc_license_cu.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/Dm7JdbcDriver17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/ifxjdbc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/jconn3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/jtds-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/mysql-connector-java-5.1.32-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/ojdbc6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/oscarJDBC.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/oscarJDBC.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/postgresql-42.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/jdbc/sqljdbc41.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
